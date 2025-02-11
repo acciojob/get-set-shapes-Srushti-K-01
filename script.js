@@ -31,7 +31,7 @@ class Square extends Rectangle {
     return this._width * 4;
   }
 }		
-}
+
 
 // Do not change the code below this line
 window.Rectangle = Rectangle;
